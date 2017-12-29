@@ -1,0 +1,4 @@
+#Thu Dec 07 14:56:03 CST 2017
+base.0=D\:\\androidstudioworkspaces\\MobileTransfer\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

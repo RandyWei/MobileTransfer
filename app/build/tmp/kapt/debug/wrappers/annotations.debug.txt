@@ -1,0 +1,38 @@
+p com.chinahrt.w.mobiletransfer 0
+d 0/MainActivity
+a permissions.dispatcher.RuntimePermissions 0
+c 0 0/MainActivity
+d 0/MainActivity$onCreate$1
+a permissions.dispatcher.NeedsPermission 1
+m 1 0/MainActivity startServer
+m 1 0/MainActivity doACacheNeedsPermission
+a permissions.dispatcher.OnShowRationale 2
+m 2 0/MainActivity ACacheShowRationale
+a permissions.dispatcher.OnNeverAskAgain 3
+m 3 0/MainActivity ACacheOnNeverAskAgain
+a permissions.dispatcher.OnPermissionDenied 4
+m 4 0/MainActivity ACacheOnPermissionDenied
+a android.annotation.SuppressLint 5
+m 5 0/MainActivity onRequestPermissionsResult
+d 0/MainActivity$mListener$1
+a org.jetbrains.annotations.NotNull 6
+m 6 0/MainActivity access$getIp$p
+p com.chinahrt.w.mobiletransfer.utils 1
+d 1/ImageUtil
+a org.jetbrains.annotations.Nullable 7
+m 7 1/ImageUtil bitmapToBase64
+m 6 1/ImageUtil base64ToBitmap
+d 1/NetWorkUtil
+m 7 1/NetWorkUtil getWifiIpAddress
+m 7 1/NetWorkUtil getIPAddress
+p com.chinahrt.w.mobiletransfer.receiver 2
+d 2/ConnectChangeReceiver
+p com.chinahrt.w.mobiletransfer.http 3
+d 3/ImageEntity
+p com.chinahrt.w.mobiletransfer.handler 4
+d 4/BaseHandler
+d 4/RequestTestHandler
+p com.chinahrt.w.mobiletransfer.handler.image 5
+d 5/ImageListHandler
+d 5/ImageOriginalHandler
+d 5/ImageThumbnailHandler

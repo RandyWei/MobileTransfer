@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\128dcd1add66a2937fe5cf23f3c1438c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20e22f368aa995c262a7993b7bd464d1e2cd1400">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\9f66d61e786db8233d1ad46e4e47ba0a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6c47b3d6ef74a657a38945022be05eb3b4360628">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.2.0\ec8b969e26fbcf2265a4d1a1539c4d1d4c5af380\kotlin-stdlib-jre7-1.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec8b969e26fbcf2265a4d1a1539c4d1d4c5af380">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\16434dee1801a2bd52da7cf41a2c8214\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e5ac95feaf0f7fe43e5581d852c5f5e252edea1">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\248be92540e10c99465206e75c6fbbbc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\jetbrains\annotations\13.0\annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\82aa0cdef0e663941599a6b1b002e2bc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00290831ca6f060783db9c00f7d15c94b9096d7c">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\aff3ca72b12c203e4bba39d73bdb5f7d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\ec6e1f2816a88c8924968d9b364be7fe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="926c07c980679a35530feb532d8a5b19147916c3">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\27519b18f0ac90b20fadd4d400948435\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d4a04619afc2262389ed421b6762c77e9dc7a46">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\c21b4c102065cb35090bd9d4cf3c3c2a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ceb458495ef3dafeec8508559cf9f78cb40e8fce">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\89d4e8c25858b1d00bd1fe4a7c50dfda\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26ebe5f1e584ab68955c221073a9ba45b8adb80b">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\andserver-1.0.3.aar\5f37b5482057530fe865c3c7a743ab1e\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8b30cc50ebafca34f109e7f52e6c1f0768f0b19">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0-beta1\419585951f4c634aa292db0b734c29541a25b94a\support-annotations-26.0.0-beta1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="419585951f4c634aa292db0b734c29541a25b94a">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\053c97484b41f02dc574e3a59065f781\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1665bf0bf1d4702216fd42524675d18c3789e87">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\easypermissions-1.0.1.aar\b8f74ceb554270c145e6453f19100f10\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="932078b2f30750bc5377ca4df58f3426c8cc875b">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.0\25eb440d6eeb9fc60299121020fe726eb2100d03\kotlin-stdlib-1.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25eb440d6eeb9fc60299121020fe726eb2100d03">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\andserver-1.0.3.aar\5f37b5482057530fe865c3c7a743ab1e\jars\libs\commons-fileupload-1.3.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e63aaa5864250fc4c02beb5c2bb750e8adf6504">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\andserver-1.0.3.aar\5f37b5482057530fe865c3c7a743ab1e\jars\libs\commons-io-2.5.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="099e96066418e81052905cd9f0f5b95aa7e7d857">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\9c71354a902c5ab82db0ac05e9f6c1c8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9d589dc939ea486f21c048cce2a1366d6f30fe9">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\0db8240f92bc0f2e09c3c94b90eda74d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7fbacba9409947f3f1fa194db4b31dd9f88174a0">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\W\.gradle\caches\transforms-1\files-1.1\andserver-1.0.3.aar\5f37b5482057530fe865c3c7a743ab1e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="749bffa1c97d1c0381d82172db2982ae57db9580">
+        <dex dex="D:\androidstudioworkspaces\MobileTransfer\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+
+</items>
